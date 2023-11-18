@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 
 function App() {
-
   return (
     <>
       <p>
@@ -17,9 +16,7 @@ function App() {
         exercitationem eaque dignissimos libero ex. Minima sint dolore ut, sunt
         consectetur quam!
       </p>
-      <p>
-        git hub 
-      </p>
+      <p>git hub</p>
     </>
   );
 }
